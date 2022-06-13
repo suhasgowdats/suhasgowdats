@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhas Gowda T S</h1>
-<h3 align="center">A passionate frontend developer from Bangalore</h3>
+<h3 align="center">A passionate MERN developer from Bangalore</h3>
 
 - 💬 Ask me about **React JS, Node JS, Mongo DB, MY Sql**
 
