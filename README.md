@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://suhasgowdats-portfolio.netlify.app](https://suhasgowdats-portfolio.netlify.app)
 
-- 💬 Ask me about **React JS, Node JS, Mongo DB, MY Sql**
+- 💬 Ask me about **JavaScript, React JS, Node JS, Mongo DB, MY Sql**
 
 - 📫 How to reach me **suhasgowda.ts1@gmail.com**
 
